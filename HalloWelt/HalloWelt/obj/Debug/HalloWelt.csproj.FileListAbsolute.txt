@@ -1,0 +1,11 @@
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\HalloWelt\HalloWelt\bin\Debug\HalloWelt.exe.config
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\HalloWelt\HalloWelt\bin\Debug\HalloWelt.exe
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\HalloWelt\HalloWelt\bin\Debug\HalloWelt.pdb
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\HalloWelt\HalloWelt\bin\Debug\Bibliotheken.dll
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\HalloWelt\HalloWelt\bin\Debug\Bibliotheken.pdb
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\HalloWelt\HalloWelt\bin\Debug\Bibliotheken.dll.config
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\HalloWelt\HalloWelt\obj\Debug\HalloWelt.csprojAssemblyReference.cache
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\HalloWelt\HalloWelt\obj\Debug\HalloWelt.csproj.CoreCompileInputs.cache
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\HalloWelt\HalloWelt\obj\Debug\HalloWelt.csproj.CopyComplete
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\HalloWelt\HalloWelt\obj\Debug\HalloWelt.exe
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\HalloWelt\HalloWelt\obj\Debug\HalloWelt.pdb

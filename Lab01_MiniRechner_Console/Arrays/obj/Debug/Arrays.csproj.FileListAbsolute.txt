@@ -1,0 +1,7 @@
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Lab01_MiniRechner_Console\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Lab01_MiniRechner_Console\Arrays\bin\Debug\Arrays.exe
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Lab01_MiniRechner_Console\Arrays\bin\Debug\Arrays.pdb
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Lab01_MiniRechner_Console\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Lab01_MiniRechner_Console\Arrays\obj\Debug\Arrays.exe
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Lab01_MiniRechner_Console\Arrays\obj\Debug\Arrays.pdb
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Lab01_MiniRechner_Console\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache

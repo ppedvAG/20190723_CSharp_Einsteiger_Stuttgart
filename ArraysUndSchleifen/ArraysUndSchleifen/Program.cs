@@ -44,8 +44,6 @@ namespace ArraysUndSchleifen
             //    Console.WriteLine($"{zahl.GetType()}");
             //}
 
-            #endregion Arrays & Schleifen
-
             List<string> StringListe = new List<string>();
             StringListe.Add("Element 1");
             StringListe.Add("Element 2");
@@ -61,6 +59,9 @@ namespace ArraysUndSchleifen
                     //continue;
                 }
             }
+
+            #endregion Arrays & Schleifen
+
 
             Console.WriteLine("--- ENDE ---");
             Console.ReadLine();

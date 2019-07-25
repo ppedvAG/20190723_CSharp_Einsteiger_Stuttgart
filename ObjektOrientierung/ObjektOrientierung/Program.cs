@@ -39,6 +39,8 @@ namespace Werkzeuge
             //prüfgerät_TypA.Ausschalten(3600);
             //Console.WriteLine($"Das Prüfgerät ist nun {prüfgerät_TypA.Power}");
 
+            Math.Sin(5.55);
+
             Console.ReadLine();
         }
 

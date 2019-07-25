@@ -1,6 +1,7 @@
-C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\ObjektOrientierung\bin\Debug\ObjektOrientierung.exe.config
-C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\ObjektOrientierung\bin\Debug\ObjektOrientierung.exe
-C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\ObjektOrientierung\bin\Debug\ObjektOrientierung.pdb
 C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\ObjektOrientierung\obj\Debug\Werkzeuge.csproj.CoreCompileInputs.cache
-C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\ObjektOrientierung\obj\Debug\ObjektOrientierung.exe
-C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\ObjektOrientierung\obj\Debug\ObjektOrientierung.pdb
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\ObjektOrientierung\obj\Debug\Werkzeuge.csprojAssemblyReference.cache
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\ObjektOrientierung\bin\Debug\Werkzeuge.exe.config
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\ObjektOrientierung\bin\Debug\Werkzeuge.exe
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\ObjektOrientierung\bin\Debug\Werkzeuge.pdb
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\ObjektOrientierung\obj\Debug\Werkzeuge.exe
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\ObjektOrientierung\obj\Debug\Werkzeuge.pdb

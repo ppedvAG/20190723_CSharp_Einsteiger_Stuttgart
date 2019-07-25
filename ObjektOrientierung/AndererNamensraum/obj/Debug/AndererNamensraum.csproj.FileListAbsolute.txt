@@ -1,0 +1,11 @@
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\AndererNamensraum\bin\Debug\AndererNamensraum.exe.config
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\AndererNamensraum\bin\Debug\AndererNamensraum.exe
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\AndererNamensraum\bin\Debug\AndererNamensraum.pdb
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\AndererNamensraum\bin\Debug\Werkzeuge.exe
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\AndererNamensraum\bin\Debug\Werkzeuge.pdb
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\AndererNamensraum\bin\Debug\Werkzeuge.exe.config
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\AndererNamensraum\obj\Debug\AndererNamensraum.csprojAssemblyReference.cache
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\AndererNamensraum\obj\Debug\AndererNamensraum.csproj.CoreCompileInputs.cache
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\AndererNamensraum\obj\Debug\AndererNamensraum.csproj.CopyComplete
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\AndererNamensraum\obj\Debug\AndererNamensraum.exe
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\ObjektOrientierung\AndererNamensraum\obj\Debug\AndererNamensraum.pdb

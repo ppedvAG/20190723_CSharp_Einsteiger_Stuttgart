@@ -1,0 +1,7 @@
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Fortbewegungsmittel\Fortbewegungsmittel\bin\Debug\Fortbewegungsmittel.exe.config
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Fortbewegungsmittel\Fortbewegungsmittel\bin\Debug\Fortbewegungsmittel.exe
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Fortbewegungsmittel\Fortbewegungsmittel\bin\Debug\Fortbewegungsmittel.pdb
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Fortbewegungsmittel\Fortbewegungsmittel\obj\Debug\Fortbewegungsmittel.csprojAssemblyReference.cache
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Fortbewegungsmittel\Fortbewegungsmittel\obj\Debug\Fortbewegungsmittel.csproj.CoreCompileInputs.cache
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Fortbewegungsmittel\Fortbewegungsmittel\obj\Debug\Fortbewegungsmittel.exe
+C:\Users\dw2\Source\Repos\20190723_CSharp_Einsteiger_Stuttgart\Fortbewegungsmittel\Fortbewegungsmittel\obj\Debug\Fortbewegungsmittel.pdb
